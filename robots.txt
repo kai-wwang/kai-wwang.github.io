@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Sitemap: https://kai-wwang.github.io/sitemap-index.xml
+Host: https://kai-wwang.github.io

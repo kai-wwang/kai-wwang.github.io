@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-tag-js",
+    "path": "/blog/tags/product/",
+    "result": {"data":{"allMarkdownRemark":{"totalCount":1,"edges":[{"node":{"frontmatter":{"title":"What if I'm Building the Wrong Product?","description":"We're all building the wrong product — we","date":"2025-07-30T00:00:00.000Z","slug":"/blog/building-wrong-product","tags":["Product","Culture"]}}}]}},"pageContext":{"tag":"Product"}},
+    "staticQueryHashes": ["1994492073","2009693873","2031412112","3825832676"]}
